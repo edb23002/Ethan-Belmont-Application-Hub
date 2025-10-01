@@ -12,7 +12,7 @@ I gained critical knowledge of computational systems through classes such as Adv
 ### Academic Experience
 I have already listed some practical skills I've gained from my classes; here are the real-life applications that I have used these skills for.
 
-<a href="{{ site.baseurl }}{% post_url 2025-10-01-my-first-post %}">My First Post</a>
+<a href="{{ site.baseurl }}{% post_url 2025-10-01-My-First-Post %}">My First Post</a>
 
 <a href="{{ site.baseurl }}{% post_url 2025-10-01-the-integral-that-stumped-feynman %}">The Integral that Stumped Feynman</a>
 

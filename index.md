@@ -14,4 +14,5 @@ I have already listed some practical skills I've gained from my classes; here ar
 
 
 Please feel free to explore my portfolio and reach out with any questions, collaborations, or opportunities.
+
 ---
